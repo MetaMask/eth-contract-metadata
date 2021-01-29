@@ -1,4 +1,11 @@
-{ 
+{
+  "0x310052769DE50103600981A02bba373f0e812a0d": {
+    "name": "Defi DigitalNote",
+    "logo": "2XDN.svg",
+    "erc20": true,
+    "symbol": "2XDN",
+    "decimals": 8
+  },
   "0xbC396689893D065F41bc2C6EcbeE5e0085233447":{
     "name": "Perpetual",
     "logo": "PERP.svg",

@@ -797,6 +797,13 @@
     "symbol": "PLDAI",
     "decimals": 18
   },
+   "0x697eF32B4a3F5a4C39dE1cB7563f24CA7BfC5947": {
+    "name": "Insula Token",
+    "logo": "Insula.svg",
+    "erc20": true,
+    "symbol": "ISLA",
+    "decimals": 18
+  },
   "0xfE6892654CBB05eB73d28DCc1Ff938f59666Fe9f": {
     "name": "PoolTogether Sai",
     "logo": "plsai.svg",
